@@ -1,0 +1,67 @@
+- id: 1
+  title: "Awards & Prizes"
+  questions:
+    - "Have you received prizes/awards for excellence in your field?"
+    - "Was the award recognized at a national or international level?"
+    - "Did the selection process involve expert judges and strict criteria?"
+  evidence: "Award certificates, ceremony programs, and media coverage of the win."
+
+- id: 2
+  title: "Membership"
+  questions:
+    - "Are you a member of associations requiring 'outstanding achievement'?"
+    - "Is membership granted based on peer-reviewed merit rather than just a fee?"
+  evidence: "Association bylaws, membership cards, and proof of selective admission."
+
+- id: 3
+  title: "Published Material"
+  questions:
+    - "Has major media or professional journals published work *about* you?"
+    - "Does the content specifically discuss your individual contributions?"
+  evidence: "Scanned articles with mastheads showing circulation data and dates."
+
+- id: 4
+  title: "Judging"
+  questions:
+    - "Have you judged the work of others (peer review, panel, or committee)?"
+    - "Do you have proof that you *completed* the review, not just an invitation?"
+  evidence: "Editor 'thank you' emails, review dashboard screenshots, or panel lists."
+
+- id: 5
+  title: "Original Contributions"
+  questions:
+    - "Have you made original contributions of 'major significance' to your field?"
+    - "Is your work widely adopted, cited, or implemented by others?"
+  evidence: "Patents, expert testimonial letters, and evidence of industry adoption."
+
+- id: 6
+  title: "Scholarly Articles"
+  questions:
+    - "Have you authored peer-reviewed articles in professional journals?"
+    - "Is your citation count significant compared to peers in your niche?"
+  evidence: "Google Scholar profile, journal impact factor reports, and article PDFs."
+
+- id: 7
+  title: "Exhibitions"
+  questions:
+    - "Has your work been displayed at distinguished artistic showcases?"
+  evidence: "Exhibition catalogs, event brochures, and venue prestige evidence."
+
+- id: 8
+  title: "Leading/Critical Role"
+  questions:
+    - "Have you held a leading role for a 'distinguished' organization?"
+    - "Can you prove your specific impact on the organization's success?"
+  evidence: "Org charts and letters from executives detailing your critical role."
+
+- id: 9
+  title: "High Salary"
+  questions:
+    - "Is your salary significantly higher than others in the same role/area?"
+  evidence: "Pay stubs, W-2s, and independent wage surveys (e.g., BLS data)."
+
+- id: 10
+  title: "Commercial Success"
+  questions:
+    - "Have your artistic performances resulted in high box office or sales?"
+  evidence: "Sales reports, royalty statements, and chart rankings."
